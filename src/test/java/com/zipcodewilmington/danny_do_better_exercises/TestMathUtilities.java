@@ -21,4 +21,13 @@ import static org.junit.Assert.*;
         TestMultiplication.class
 })
 public class TestMathUtilities {
-}
+
+//    @Test
+//    public void add() {
+//        MathUtilities math = new MathUtilities();
+//        int x = 4;
+//        int y = 6;
+//        int expectedResult = 10;
+//        int actualResult = math.add(x, y);
+//        assertEquals(expectedResult, actualResult);
+    }
